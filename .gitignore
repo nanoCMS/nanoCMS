@@ -1,0 +1,11 @@
+# git ignore file
+
+# Visual Studio
+[Dd]ebug/
+[Rr]elease/
+*.csproj.user
+
+
+# Resharper
+*[Rr]e[Ss]harper.user
+_ReSharper.*/
